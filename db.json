@@ -2,63 +2,39 @@
   "clientes": [
     {
       "id": 1,
-      "nombre": "Juan",
+      "nombre": "Juanin",
       "telefono": 102013313,
-      "email": "juan@juan.com",
-      "empresa": "Codigo Con Juan"
+      "email": "juanin@juanin.com",
+      "empresa": "YesCo"
     },
     {
-      "nombre": "Karen (actualizado)",
-      "empresa": "Codigo Con Juan",
-      "email": "karen@juan.com",
+      "id": 2,
+      "nombre": "Jacinta",
+      "email": "jacinta@jacinta.com",
       "telefono": "138198313",
-      "notas": "Desea una REST API",
-      "id": 2
+      "empresa": "YesCo"
     },
     {
-      "id": 3,
-      "nombre": "Josue",
-      "telefono": 31983913,
-      "email": "josue@juan.com",
-      "empresa": "Codigo Con Juan"
+      "nombre": "Bruce",
+      "empresa": "YesCo",
+      "email": "bruce@bruce.com",
+      "telefono": "31983913",
+      "notas": "Cliente solicita página web.",
+      "id": 3
     },
     {
       "id": 4,
-      "nombre": "Miguel",
+      "nombre": "Jazmín",
       "telefono": 319381983,
-      "email": "miguel@juan.com",
-      "empresa": "Codigo Con Juan"
+      "email": "jazmin@jazmin.com",
+      "empresa": "YesCo"
     },
     {
       "id": 5,
-      "nombre": "Pedro",
+      "nombre": "Sansa",
       "telefono": 1398198938,
-      "email": "pedro@juan.com",
-      "empresa": "Codigo Con Juan"
-    },
-    {
-      "nombre": "netflix",
-      "empresa": "Javiera CO",
-      "email": "correo@correo.com",
-      "telefono": "98785764",
-      "notas": "asdasdadsdads",
-      "id": 6
-    },
-    {
-      "nombre": "Transporte",
-      "empresa": "Javiera CO",
-      "email": "jabrulee@gmail.com",
-      "telefono": "98785764",
-      "notas": "aadsada",
-      "id": 7
-    },
-    {
-      "nombre": "Visita al doctor",
-      "empresa": "Javiera CO",
-      "email": "jabrulee@gmail.com",
-      "telefono": "98785764",
-      "notas": "kjkslajlkdjs",
-      "id": 8
+      "email": "sansa@sansa.com",
+      "empresa": "YesCo"
     }
   ]
 }

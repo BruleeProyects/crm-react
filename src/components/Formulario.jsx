@@ -1,4 +1,4 @@
-const Formulario = ({cliente}) => {
+const Formulario = ({ cliente }) => {
     return (
         <>
             <div className="mb-4">
@@ -6,7 +6,7 @@ const Formulario = ({cliente}) => {
                     className="text-gray-800"
                     htmlFor="nombre"
                 >Nombre:</label>
-                <input 
+                <input
                     id="nombre"
                     type="text"
                     className="mt-2 block w-full p-3 bg-gray-50"
@@ -20,7 +20,7 @@ const Formulario = ({cliente}) => {
                     className="text-gray-800"
                     htmlFor="empresa"
                 >Empresa:</label>
-                <input 
+                <input
                     id="empresa"
                     type="text"
                     className="mt-2 block w-full p-3 bg-gray-50"
@@ -35,7 +35,7 @@ const Formulario = ({cliente}) => {
                     className="text-gray-800"
                     htmlFor="email"
                 >E-mail:</label>
-                <input 
+                <input
                     id="email"
                     type="email"
                     className="mt-2 block w-full p-3 bg-gray-50"
@@ -50,7 +50,7 @@ const Formulario = ({cliente}) => {
                     className="text-gray-800"
                     htmlFor="telefono"
                 >Teléfono:</label>
-                <input 
+                <input
                     id="telefono"
                     type="tel"
                     className="mt-2 block w-full p-3 bg-gray-50"

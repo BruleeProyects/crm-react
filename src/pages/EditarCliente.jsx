@@ -38,8 +38,8 @@ export async function action({ request, params }) {
         return errores
     }
 
-//Actualizar cliente
-    await actualizarCliente(params.clienteId,datos)
+    //Actualizar cliente
+    await actualizarCliente(params.clienteId, datos)
     return redirect('/')
 
 }

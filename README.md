@@ -1,5 +1,5 @@
 # crm-react
 
-169
+Proyecto desarrollado con React, React Router DOM, Tailwind CSS y JSON Server.
 
-correr servidor  = json-server --watch db.json 
+Para correr el servidor escribir en consola "json-server --watch db.json" 
